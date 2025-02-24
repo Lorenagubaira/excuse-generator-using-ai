@@ -12,9 +12,12 @@
 	"difficulty": "beginner",
 	"technologies": ["javascript", "html", "the-dom", "python", "generative-ai"],
 	"description": {
-		"us": "Create an AI-powered Excuse Generator using Python or JavaScript. Learn to connect with ChatGPT's API and generate creative excuses. Perfect for coding practice!",
-		"es": "Crea un Generador de Excusas con IA usando Python o JavaScript. Aprende a conectar con la API de ChatGPT y genera excusas creativas. ¡Ideal para practicar programación!"
+		"us": "Build an AI Excuse Generator! Use Python/JS to connect with ChatGPT's API. Input a scenario, get a creative excuse. Great for API practice & coding. Start with Flask or VanillaJS templates, obtain an OpenAI API key, and craft a prompt for dynamic excuse generation. Enhance with styling & error handling.",
+		"es": "¡Crea un Generador de Excusas con IA! Usa Python/JS para conectarte con la API de ChatGPT. Ingresa un escenario y obtén una excusa creativa. Ideal para practicar APIs y codificación. Comienza con plantillas de Flask o VanillaJS, obtén una clave API de OpenAI y elabora un prompt para la generación dinámica de excusas. Mejora con estilo y manejo de errores."
 	},
 	"autoPlay": false,
-	"projectType": "project"
+	"projectType": "project",
+	"telemetry": {
+		"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1792"
+		}
 }
