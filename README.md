@@ -2,7 +2,7 @@
 # Create an Excuse Generator using AI
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
 
 ## 🌱 How to start this project?
 
@@ -22,7 +22,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 
 > ⚠ You will need to have Node.js or Python 3.7+ installed if you do it locally, but all of that is already installed on Codespaces or Gitpod.
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instructions
 
